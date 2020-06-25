@@ -1,0 +1,12 @@
+{
+  "name": "yeelight-link",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-yeelight": "^1.0.6"
+  }
+}
